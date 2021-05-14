@@ -76,6 +76,7 @@ Both red and white wine dataset consists of 12 physicochemical characteristics. 
 In this work, machine learning techniques are used to determine dependency of wine quality on other variables and  in  wine  quality predictions. We have analysed that there are some variables which have a strong effect on our output variables and they are: alcohol, density, volatile acidity. There are also variables which affect these variables and they are chloride, residual sugar, volatile aciditfy, Sulphide oxide. After applying all the Machine Learning Algorithms, we have realised that Gradient Boosting Algorithm gives the best result in terms of accuracy of 80.64 %.
 
 ## Developers
+
 Shwetank Dixit
 
 Srishti Rastogi
